@@ -9,7 +9,7 @@
 
   <h2 align="center">Glassmorphism Profile Card</h2>
 
-  In this project, I have created a user profile card UI design with glassmorphism style and tilt effect, <br />The project is built using HTML5, CSS3 & JS.
+  In this project, I have created a user profile card UI design with glassmorphism style and tilt effect, <br />The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/glassmorphism-profile-card/"><strong>➥ Live Demo</strong></a>
 
