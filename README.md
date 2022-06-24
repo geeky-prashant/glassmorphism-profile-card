@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **profile-card** locally, run this command on your git bash:
+To run **glassmorphism-profile-card** locally, run this command on your git bash:
 
 Linux and macOS:
 
