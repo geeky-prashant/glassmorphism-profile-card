@@ -43,7 +43,7 @@ git clone https://github.com/geeky-prashant/glassmorphism-profile-card.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
 
 ### License
 
